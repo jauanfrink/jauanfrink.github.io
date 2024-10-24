@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Liberty Finally Give New York City a Basketball Championship</title>
+
+<style>
+    body {
+        background-color:#f0f8ff; /* Light blue background */
+        font-family:'Times New Roman', Times, serif
+        text-align: center;
+    }
+    img {
+        margin-top: 20px;
+        border-radius: 8px;
+    }
+    h1 {
+        font-size: 2em;
+        font-weight: bold;
+        margin-bottom: 20px
+    }
+    p {
+        width: 80%;
+        margin: auto;
+        font-size: 1.2em;
+        line-height: 1.6;
+    }
+</style>
+
+</head>
+<body>
+    <h1><b>Liberty Finally Give New York City a Basketball Championship</b></h1>
+
+    <p> New York got its first basketball championship in 48 years, as the New York Liberty beat the Minnesota Lynx in front of exuberant fans in Brooklyn.</p>
+
+<!-- Image of the championship -->
+<img src="liberty.jpeg" alt="Basketball Championship Celebration" width="600">
+
+<!-- Second paragraph -->
+ <p>As the final second ticked off the clock, Breanna Stewart Turned to her teammate Jonquel Jones for a long-awaited championship hug, as streamers floated down on the court and thousands of fans screamed, danced and recorded the moment on their phones.</p>
+
+</body>
+</html>
